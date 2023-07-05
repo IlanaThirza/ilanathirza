@@ -4,9 +4,11 @@
 - 💜 - Atualmente sou Recruiter na [Lampp-it Solutions]([https://www.linkedin.com/company/lampp-it-solutions]);
 - 🦄 - Somos uma Outsorsing que presta serviços techs para orgãos públicos em todo Brasil;
 - 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
-- - **Backend**: NestJs + PrismaIO + PostgreSQL;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- - **Analista de Requisitos em Rio Branco - Acre**
+- - **Analista de Sistemas Testes Pleno em Rio Branco - Acre**
+- - **Analista de Negócios Pleno em Rio Branco - Acre**
+- - **UX Designer**
+- - Se alguma fez sentido pra você, [entre em contato conosco]([(https://vemserlampper.gupy.io/)].
 
 ##
 
