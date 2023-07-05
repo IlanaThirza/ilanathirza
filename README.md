@@ -8,7 +8,7 @@
 - - **Analista de Sistemas Testes Pleno em Rio Branco - Acre**
 - - **Analista de Negócios Pleno em Rio Branco - Acre**
 - - **UX Designer**
-- - Se alguma fez sentido pra você, [entre em contato conosco]([(https://vemserlampper.gupy.io/)].
+- - Se alguma fez sentido pra você, [entre em contato conosco (https://vemserlampper.gupy.io/)].
 
 ##
 
