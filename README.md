@@ -1,8 +1,8 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻 -  Eu me chamo [Paulo Pelaez](https://www.linkedin.com/in/paulopelaez);
-- 💜 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
+- 👨🏽‍💻 -  Eu me chamo [Ilana Thirza](https://www.linkedin.com/in/ilanathirza/);
+- 💜 - Atualmente sou Recruiter na [Lampp-it Solutions]([https://www.linkedin.com/company/lampp-it-solutions]);
+- 🦄 - Somos uma Outsorsing que presta serviços techs para orgãos públicos em todo Brasil;
 - 💸 - Constantemente temos vagas para:
 - - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
 - - **Backend**: NestJs + PrismaIO + PostgreSQL;
